@@ -372,6 +372,7 @@ nftset=/novaya.no/4#inet#fw4#vpn_domains
 nftset=/novayagazeta.eu/4#inet#fw4#vpn_domains
 nftset=/novayagazeta.ru/4#inet#fw4#vpn_domains
 nftset=/ntc.party/4#inet#fw4#vpn_domains
+nftset=/nxp.com/4#inet#fw4#vpn_domains
 nftset=/nyaa.si/4#inet#fw4#vpn_domains
 nftset=/oaistatic.com/4#inet#fw4#vpn_domains
 nftset=/oaiusercontent.com/4#inet#fw4#vpn_domains

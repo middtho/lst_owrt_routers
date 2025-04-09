@@ -348,6 +348,7 @@ nftset=/nasvsehtoshnit.ru/4#inet#fw4#vpn_domains
 nftset=/navalny.com/4#inet#fw4#vpn_domains
 nftset=/nba.com/4#inet#fw4#vpn_domains
 nftset=/neformat.com.ua/4#inet#fw4#vpn_domains
+nftset=/netapp.com/4#inet#fw4#vpn_domains
 nftset=/netflix.com/4#inet#fw4#vpn_domains
 nftset=/netlify.com/4#inet#fw4#vpn_domains
 nftset=/networksolutions.com/4#inet#fw4#vpn_domains

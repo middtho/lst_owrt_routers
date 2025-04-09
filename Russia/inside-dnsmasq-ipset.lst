@@ -348,6 +348,7 @@ ipset=/nasvsehtoshnit.ru/vpn_domains
 ipset=/navalny.com/vpn_domains
 ipset=/nba.com/vpn_domains
 ipset=/neformat.com.ua/vpn_domains
+ipset=/netapp.com/vpn_domains
 ipset=/netflix.com/vpn_domains
 ipset=/netlify.com/vpn_domains
 ipset=/networksolutions.com/vpn_domains

@@ -534,6 +534,7 @@ nftset=/soapui.org/4#inet#fw4#vpn_domains
 nftset=/sobesednik.com/4#inet#fw4#vpn_domains
 nftset=/sobesednik.ru/4#inet#fw4#vpn_domains
 nftset=/solarwinds.com/4#inet#fw4#vpn_domains
+nftset=/sora.com/4#inet#fw4#vpn_domains
 nftset=/soundcloud.com/4#inet#fw4#vpn_domains
 nftset=/spacelift.io/4#inet#fw4#vpn_domains
 nftset=/spektr.press/4#inet#fw4#vpn_domains

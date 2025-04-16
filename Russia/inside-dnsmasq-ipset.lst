@@ -534,6 +534,7 @@ ipset=/soapui.org/vpn_domains
 ipset=/sobesednik.com/vpn_domains
 ipset=/sobesednik.ru/vpn_domains
 ipset=/solarwinds.com/vpn_domains
+ipset=/sora.com/vpn_domains
 ipset=/soundcloud.com/vpn_domains
 ipset=/spacelift.io/vpn_domains
 ipset=/spektr.press/vpn_domains

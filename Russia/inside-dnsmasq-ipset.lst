@@ -499,6 +499,7 @@ ipset=/salesforce.com/vpn_domains
 ipset=/salesforceiq.com/vpn_domains
 ipset=/salesforceliveagent.com/vpn_domains
 ipset=/sap.com/vpn_domains
+ipset=/saveeditonline.com/vpn_domains
 ipset=/saverudata.info/vpn_domains
 ipset=/saverudata.net/vpn_domains
 ipset=/schaeffler.com/vpn_domains

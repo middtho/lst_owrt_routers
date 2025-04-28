@@ -499,6 +499,7 @@ nftset=/salesforce.com/4#inet#fw4#vpn_domains
 nftset=/salesforceiq.com/4#inet#fw4#vpn_domains
 nftset=/salesforceliveagent.com/4#inet#fw4#vpn_domains
 nftset=/sap.com/4#inet#fw4#vpn_domains
+nftset=/saveeditonline.com/4#inet#fw4#vpn_domains
 nftset=/saverudata.info/4#inet#fw4#vpn_domains
 nftset=/saverudata.net/4#inet#fw4#vpn_domains
 nftset=/schaeffler.com/4#inet#fw4#vpn_domains

@@ -41,6 +41,7 @@ ipset=/appstorrent.ru/vpn_domains
 ipset=/aqicn.org/vpn_domains
 ipset=/arbat.media/vpn_domains
 ipset=/archiveofourown.org/vpn_domains
+ipset=/arm.com/vpn_domains
 ipset=/atlassian.com/vpn_domains
 ipset=/atn.ua/vpn_domains
 ipset=/att.com/vpn_domains

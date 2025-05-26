@@ -421,6 +421,7 @@ ipset=/pb.wtf/vpn_domains
 ipset=/pcbway.com/vpn_domains
 ipset=/pcbway.ru/vpn_domains
 ipset=/pcgamesn.com/vpn_domains
+ipset=/pepperl-fuchs.com/vpn_domains
 ipset=/periscope.tv/vpn_domains
 ipset=/pexels.com/vpn_domains
 ipset=/phncdn.com/vpn_domains

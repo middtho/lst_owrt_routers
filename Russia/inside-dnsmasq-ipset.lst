@@ -211,6 +211,7 @@ ipset=/gonitro.com/vpn_domains
 ipset=/goodreads.com/vpn_domains
 ipset=/googleapis.com/vpn_domains
 ipset=/googletagmanager.com/vpn_domains
+ipset=/googleusercontent.com/vpn_domains
 ipset=/googlevideo.com/vpn_domains
 ipset=/gordonua.com/vpn_domains
 ipset=/gpsonextra.net/vpn_domains

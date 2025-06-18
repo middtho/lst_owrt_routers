@@ -108,6 +108,7 @@ nftset=/cyxymu.info/4#inet#fw4#vpn_domains
 nftset=/czx.to/4#inet#fw4#vpn_domains
 nftset=/daemon-tools.cc/4#inet#fw4#vpn_domains
 nftset=/decrypt.day/4#inet#fw4#vpn_domains
+nftset=/deepl.com/4#inet#fw4#vpn_domains
 nftset=/deezer.com/4#inet#fw4#vpn_domains
 nftset=/delfi.ee/4#inet#fw4#vpn_domains
 nftset=/delfi.lt/4#inet#fw4#vpn_domains

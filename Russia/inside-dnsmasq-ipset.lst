@@ -318,6 +318,7 @@ ipset=/livetv.sx/vpn_domains
 ipset=/localbitcoins.com/vpn_domains
 ipset=/locals.md/vpn_domains
 ipset=/lostfilm.run/vpn_domains
+ipset=/lostfilm.today/vpn_domains
 ipset=/lostfilm.top/vpn_domains
 ipset=/lostfilm.tv/vpn_domains
 ipset=/lostfilm.win/vpn_domains

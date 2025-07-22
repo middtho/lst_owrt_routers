@@ -318,6 +318,7 @@ nftset=/livetv.sx/4#inet#fw4#vpn_domains
 nftset=/localbitcoins.com/4#inet#fw4#vpn_domains
 nftset=/locals.md/4#inet#fw4#vpn_domains
 nftset=/lostfilm.run/4#inet#fw4#vpn_domains
+nftset=/lostfilm.today/4#inet#fw4#vpn_domains
 nftset=/lostfilm.top/4#inet#fw4#vpn_domains
 nftset=/lostfilm.tv/4#inet#fw4#vpn_domains
 nftset=/lostfilm.win/4#inet#fw4#vpn_domains

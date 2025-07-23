@@ -341,6 +341,7 @@ nftset=/medicalnewstoday.com/4#inet#fw4#vpn_domains
 nftset=/medium.com/4#inet#fw4#vpn_domains
 nftset=/meduza.io/4#inet#fw4#vpn_domains
 nftset=/megapeer.ru/4#inet#fw4#vpn_domains
+nftset=/melord.net/4#inet#fw4#vpn_domains
 nftset=/memohrc.org/4#inet#fw4#vpn_domains
 nftset=/meraki.com/4#inet#fw4#vpn_domains
 nftset=/merezha.co/4#inet#fw4#vpn_domains

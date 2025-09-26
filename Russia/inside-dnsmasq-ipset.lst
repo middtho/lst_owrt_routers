@@ -662,6 +662,7 @@ ipset=/vpnlove.me/vpn_domains
 ipset=/vrv.co/vpn_domains
 ipset=/vyos.io/vpn_domains
 ipset=/vyos.net/vpn_domains
+ipset=/wallpapercave.com/vpn_domains
 ipset=/walmart.com/vpn_domains
 ipset=/watchguard.com/vpn_domains
 ipset=/weather.com/vpn_domains

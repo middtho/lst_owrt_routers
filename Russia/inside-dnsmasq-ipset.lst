@@ -709,6 +709,7 @@ ipset=/zetalliance.org/vpn_domains
 ipset=/zetfix.online/vpn_domains
 ipset=/zetflix.online/vpn_domains
 ipset=/zf.com/vpn_domains
+ipset=/zimbra.com/vpn_domains
 ipset=/zimbra.org/vpn_domains
 ipset=/znanija.com/vpn_domains
 ipset=/zohomail.com/vpn_domains

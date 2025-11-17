@@ -231,6 +231,7 @@ ipset=/grok.com/vpn_domains
 ipset=/groq.com/vpn_domains
 ipset=/gulagu.net/vpn_domains
 ipset=/habr.com/vpn_domains
+ipset=/happycolorapp.com/vpn_domains
 ipset=/hashicorp.com/vpn_domains
 ipset=/hdkinoteatr.com/vpn_domains
 ipset=/hdrezka.ag/vpn_domains

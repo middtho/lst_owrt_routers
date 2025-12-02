@@ -167,6 +167,7 @@ ipset=/facebook.net/vpn_domains
 ipset=/fast-torrent.club/vpn_domains
 ipset=/fast.com/vpn_domains
 ipset=/fastly.net/vpn_domains
+ipset=/fastlydns.net/vpn_domains
 ipset=/fb.com/vpn_domains
 ipset=/fbcdn.net/vpn_domains
 ipset=/fbsbx.com/vpn_domains

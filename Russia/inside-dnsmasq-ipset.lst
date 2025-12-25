@@ -363,6 +363,7 @@ ipset=/mouser.com/vpn_domains
 ipset=/mouser.fi/vpn_domains
 ipset=/mrakopedia.net/vpn_domains
 ipset=/mullvad.net/vpn_domains
+ipset=/naps2.com/vpn_domains
 ipset=/nasvsehtoshnit.ru/vpn_domains
 ipset=/navalny.com/vpn_domains
 ipset=/nba.com/vpn_domains

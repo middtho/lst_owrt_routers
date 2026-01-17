@@ -425,6 +425,7 @@ nftset=/pandasecurity.com/4#inet#fw4#vpn_domains
 nftset=/pap.pl/4#inet#fw4#vpn_domains
 nftset=/paperpaper.io/4#inet#fw4#vpn_domains
 nftset=/paperpaper.ru/4#inet#fw4#vpn_domains
+nftset=/parallels.com/4#inet#fw4#vpn_domains
 nftset=/paraplan.net/4#inet#fw4#vpn_domains
 nftset=/paraswap.io/4#inet#fw4#vpn_domains
 nftset=/parsec.app/4#inet#fw4#vpn_domains

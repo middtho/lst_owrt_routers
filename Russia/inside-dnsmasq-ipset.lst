@@ -193,6 +193,7 @@ ipset=/fork.pet/vpn_domains
 ipset=/forklog.com/vpn_domains
 ipset=/formula1.com/vpn_domains
 ipset=/fortanga.org/vpn_domains
+ipset=/freecodecamp.org/vpn_domains
 ipset=/freedomletters.org/vpn_domains
 ipset=/freeimages.com/vpn_domains
 ipset=/freemedia.io/vpn_domains

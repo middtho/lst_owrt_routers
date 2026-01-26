@@ -11,6 +11,7 @@ ipset=/9tv.co.il/vpn_domains
 ipset=/a-msedge.net/vpn_domains
 ipset=/abook-club.ru/vpn_domains
 ipset=/activatica.org/vpn_domains
+ipset=/adblockplus.org/vpn_domains
 ipset=/adguard-dns.com/vpn_domains
 ipset=/adguard.com/vpn_domains
 ipset=/adobe.com/vpn_domains

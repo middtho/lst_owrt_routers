@@ -97,6 +97,7 @@ nftset=/citrix.com/4#inet#fw4#vpn_domains
 nftset=/clamav.net/4#inet#fw4#vpn_domains
 nftset=/claude.ai/4#inet#fw4#vpn_domains
 nftset=/cloudex.cc/4#inet#fw4#vpn_domains
+nftset=/cloudflare-ech.com/4#inet#fw4#vpn_domains
 nftset=/cms-twdigitalassets.com/4#inet#fw4#vpn_domains
 nftset=/cock.li/4#inet#fw4#vpn_domains
 nftset=/codeium.com/4#inet#fw4#vpn_domains

@@ -97,6 +97,7 @@ ipset=/citrix.com/vpn_domains
 ipset=/clamav.net/vpn_domains
 ipset=/claude.ai/vpn_domains
 ipset=/cloudex.cc/vpn_domains
+ipset=/cloudflare-ech.com/vpn_domains
 ipset=/cms-twdigitalassets.com/vpn_domains
 ipset=/cock.li/vpn_domains
 ipset=/codeium.com/vpn_domains

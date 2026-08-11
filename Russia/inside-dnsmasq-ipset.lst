@@ -417,6 +417,7 @@ ipset=/onlineradiobox.com/vpn_domains
 ipset=/onlinesim.ru/vpn_domains
 ipset=/openai.com/vpn_domains
 ipset=/openmedia.io/vpn_domains
+ipset=/openrouter.ai/vpn_domains
 ipset=/opensea.io/vpn_domains
 ipset=/opentrackr.org/vpn_domains
 ipset=/opposition-news.com/vpn_domains
